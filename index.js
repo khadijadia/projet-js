@@ -130,7 +130,6 @@ if (cgv.checked) {
   document.querySelector("form > div").innerHTML = `
 <h3>Pseudo : ${pseudo}</h3> 
 <h4>langage prefere : ${language}</h4>
-
   `;
   
   
